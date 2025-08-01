@@ -1,5 +1,7 @@
 // Way Too Long Words
-/* "localization" will be spelt as "l10n", and "internationalization» will be spelt as "i18n"*/
+/* "localization" will be spelt as "l10n", and "internationalization» will be spelt as "i18n". 
+Means if the given word has more than 10 characters 
+then print its 1st character and then number of characters between 1st and last character and then print last character  */
 
 #include <bits/stdc++.h>
 using namespace std;
