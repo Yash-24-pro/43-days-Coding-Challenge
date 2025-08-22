@@ -1,5 +1,6 @@
 /*Input
-The first line contains integer n (1 ≤ n ≤ 100) — the number of coins. The second line contains a sequence of n integers a1, a2, ..., an (1 ≤ ai ≤ 100) — the coins' values. All numbers are separated with spaces.
+The first line contains integer n (1 ≤ n ≤ 100) — the number of coins. The second line contains a sequence of n integers 
+a1, a2, ..., an (1 ≤ ai ≤ 100) — the coins' values. All numbers are separated with spaces.
 
 Output
 In the single line print the single number — the minimum needed number of coins.*/
@@ -39,4 +40,5 @@ int main()
     cout << count;
 
     return 0;
+
 }
