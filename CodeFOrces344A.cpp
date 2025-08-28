@@ -14,7 +14,6 @@ int main()
     for (int i = 0; i < n; i++)
     {
         cin >> a[i];
-        cout << endl;
     }
     for (int j = 0; j < n; j++)
     {
@@ -25,4 +24,5 @@ int main()
     }
     cout<<pair;
     return 0;
+
 }
