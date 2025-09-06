@@ -11,13 +11,13 @@ Output
 Print on the single line "YES" if n is a nearly lucky number. Otherwise, print "NO" (without the quotes).
 
 Examples
-InputCopy
+Input
 40047
-OutputCopy
+Output
 NO
-InputCopy
+Input
 7747774
-OutputCopy
+Output
 YES
 */
 
@@ -55,4 +55,5 @@ int main()
     }
     cout << "YES";
     return 0;
+
 }
