@@ -7,7 +7,7 @@ In this case we should automatically change the case of all letters. For example
 Write a program that applies the rule mentioned above. If the rule cannot be applied, the program should leave the word unchanged.
 
 Input
-The first line of the input data contains a word consisting of uppercase and lowercase Latin letters. The word's length is from 1 to 100 characters, inclusive.
+The first line of the input data contains a word consisting of uppercase and lowercase Latin letters. The word's length is from 1 to 100 characters , inclusive.
 
 Output
 Print the result of the given word's processing.*/
@@ -45,4 +45,5 @@ int main()
 
     cout << s;
     return 0;
+
 }
